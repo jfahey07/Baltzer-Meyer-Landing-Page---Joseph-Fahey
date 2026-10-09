@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  background-color: #e6d9d0;
+  font-family: Georgia, serif;
+}
+
+.top {
+  background-color: #231f38;
+  color: white;
+  height: 300px;
+  padding-left: 150px;
+  padding-top: 50px;
+  font-family: "Alegreya Sans SC", sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 80px;
+  margin: 0;
+}
+
+.content {
+  display: flex;
+  margin-right: 50px;
+}
+
+.box {
+  background-color: #76806f;
+  border: 6px solid #c9d3cb;
+  color: white;
+  width: 360px;
+  height: 300px;
+  padding: 50px 30px;
+  margin-top: 100px;
+  margin-left: 150px;
+  text-align: center;
+  font-size:x-small;
+}
+
+.tagline {
+  font-family: "Alegreya", serif;
+  font-size: 22px;
+  margin: 0 0 50px 0;
+}
+
+.newsletter {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 17px;
+  margin: 0 0 30px 0;
+}
+
+.button {
+  background-color: #a86a6a;
+  color: white;
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 26px;
+  text-decoration: none;
+  padding: 10px 50px;
+  border: 3px solid #8c5252;
+  border-radius: 30px;
+  box-shadow: 0px 6px 6px gray;
+}
+
+img {
+  width: 320px;
+  height: 320px;
+  border: 10px solid #231f38;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #76806f;
+  display: block;
+}
+
+.column1 {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.column2 {
+  margin-left: 20px;
+  margin-top: -150px;
+}
+
+.church {
+  margin-bottom: 20px;
+}
